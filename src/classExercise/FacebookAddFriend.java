@@ -15,7 +15,7 @@ public class FacebookAddFriend {
 
 		//configurarNavegador 
 
-		configurarNavegador(); 
+		configurarNavegador();; 
 
 		//login 
 
